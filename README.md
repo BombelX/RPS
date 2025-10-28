@@ -1,0 +1,2 @@
+# RPS
+Algorytmy Stochastyczne :)
